@@ -1,4 +1,4 @@
-<h1>Python Log Parsing Automation</h1>
+<h1>Python File Handling Automation</h1>
 
 <h2>Description</h2>
 My scenario is an individual working at a health care company. As part of my job, I’m required to regularly update a file that identifies the employees who can access restricted content. The contents of the file are based on who is working with personal patient records. Employees are restricted access based on their IP address. There is an 'allow list' for IP addresses permitted to sign into the restricted subnetwork. There's also a remove list that identifies which employees I must remove from this 'allow list'. 
